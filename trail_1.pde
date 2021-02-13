@@ -1,3 +1,4 @@
+// here we use width/n +/- n and height/n +/- n to express that this must be positioned depending to the canva's dimension (w and h)
 size(500, 300);
 smooth();
 background(230, 230, 230);
